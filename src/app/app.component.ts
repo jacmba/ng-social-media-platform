@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'ng-social-media-platform';
+  title = 'My Social Media Platform';
 }
